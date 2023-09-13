@@ -1,6 +1,6 @@
 # DS5006 - Deep Learning Repository
 
-Welcome to the DS5006 - Deep Learning repository! This repository contains course materials, including slides, lecture notes, assignments, projects, recommended books, and datasets.
+Welcome to the DS5006 - Deep Learning repository! This repository contains course materials, including slides, lecture notes, assignments, projects, recommended books, reference books, research papers, and datasets.
 
 ## Table of Contents
 
@@ -9,6 +9,8 @@ Welcome to the DS5006 - Deep Learning repository! This repository contains cours
 - [Assignments](#assignments)
 - [Projects](#projects)
 - [Recommended Books](#recommended-books)
+- [Reference Books](#reference-books)
+- [Research Papers](#research-papers)
 - [Datasets](#datasets)
 
 ## Slides
@@ -45,10 +47,26 @@ The projects section features information about course projects, project guideli
 
 ## Recommended Books
 
-For additional learning resources, we recommend the following books to enhance your understanding of deep learning:
+For foundational learning, we recommend the following books:
 
 - [Deep Learning](https://example.com/deep-learning-book) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - [Neural Networks and Deep Learning](https://example.com/neural-networks-book) by Michael Nielsen
+- ...
+
+## Reference Books
+
+These reference books provide advanced insights into deep learning:
+
+- [Advanced Deep Learning with TensorFlow 2 and Keras](https://example.com/advanced-dl-book) by Rowel Atienza
+- [Deep Learning for Computer Vision](https://example.com/computer-vision-book) by Rajalingappaa Shanmugamani
+- ...
+
+## Research Papers
+
+Explore the latest research papers in deep learning:
+
+- [Title of Research Paper 1](https://example.com/research-paper1)
+- [Title of Research Paper 2](https://example.com/research-paper2)
 - ...
 
 ## Datasets
