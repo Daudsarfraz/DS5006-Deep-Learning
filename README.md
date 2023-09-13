@@ -58,6 +58,12 @@ For foundational learning, recommend the following books:
 - [Neural Networks for Pattern Recognition](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20for%20Pattern%20Recognition.pdf) by Christopher M. Bishop
 - [Neural Networks from Scratch in Python](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20from%20Scratch%20in%20Python.pdf) by Harrison Kinsley & Daniel Kukieła
 - [Python Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Python%20Deep%20Learning.pdf) by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca
+- [Feature Engineering for Machine Learning Principles and Techniques for Data Scientists]() by Alice Zheng & Amanda Casari
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems]() by Aurélien Géron
+- [Introduction to Machine Learning with Python A Guide for Data Scientists]() by
+- [Machine Learning]() by Tom M. Mitchell
+- [Machine Learning With Python]() by Bernd Klein
+- [Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2]() by Sebastian Raschka and Vahid Mirjalili
 
 ## Reference Books
 
