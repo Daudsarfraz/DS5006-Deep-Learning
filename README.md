@@ -1,4 +1,4 @@
-# DS5006 - Deep Learning Repository
+# DS5006 - Deep Learning
 
 Welcome to the DS5006 - Deep Learning repository! This repository contains course materials, including slides, lecture notes, assignments, projects, recommended books, reference books, research papers, and datasets.
 
