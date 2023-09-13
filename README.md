@@ -50,9 +50,9 @@ The projects section features information about course projects, project guideli
 For foundational learning, we recommend the following books:
 
 - [Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Deep%20Learning%20Ian%20Goodfellow.pdf) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- [Deep Learning for Coders with fastai and PyTorch]([https://example.com/neural-networks-book](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Deep%20Learning%20for%20Coders%20with%20fastai%20and%20PyTorch.pdf)) by Jeremy Howard & Sylvain Gugger
-- [Dive into Deep Learning old]() by Aston Zhang, Zachary C. Lipton, MU LI, and Alexander J. Smola
-- [Dive into Deep Learning new]() by 
+- [Deep Learning for Coders with fastai and PyTorch](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Deep%20Learning%20for%20Coders%20with%20fastai%20and%20PyTorch.pdf) by Jeremy Howard & Sylvain Gugger
+- [Dive into Deep Learning old](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Dive%20into%20Deep%20Learning1.pdf) by Aston Zhang, Zachary C. Lipton, MU LI, and Alexander J. Smola
+- [Dive into Deep Learning new](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Dive%20into%20Deep%20Learning.pdf) by 
 - [Neural Networks & Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20%26%20Deep%20Learning.pdf) by
 - [Neural Networks and Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20and%20Deep%20Learning.pdf) by 
 - [Neural Networks for Pattern Recognition](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20for%20Pattern%20Recognition.pdf) by 
