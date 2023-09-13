@@ -49,7 +49,7 @@ The projects section features information about course projects, project guideli
 
 For foundational learning, we recommend the following books:
 
-- [Deep Learning](https://example.com/deep-learning-book) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- [Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Deep%20Learning%20Ian%20Goodfellow.pdf) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - [Neural Networks and Deep Learning](https://example.com/neural-networks-book) by Michael Nielsen
 - ...
 
