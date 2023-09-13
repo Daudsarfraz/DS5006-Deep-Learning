@@ -52,7 +52,7 @@ For foundational learning, recommend the following books:
 - [Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Deep%20Learning%20Ian%20Goodfellow.pdf) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - [Deep Learning for Coders with fastai and PyTorch](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Deep%20Learning%20for%20Coders%20with%20fastai%20and%20PyTorch.pdf) by Jeremy Howard & Sylvain Gugger
 - [Dive into Deep Learning old](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Dive%20into%20Deep%20Learning1.pdf) by Aston Zhang, Zachary C. Lipton, MU LI, and Alexander J. Smola
-- [Dive into Deep Learning new](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Dive%20into%20Deep%20Learning.pdf) by 
+- [Dive into Deep Learning new](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Dive%20into%20Deep%20Learning.pdf) by Aston Zhang, Zachary C. Lipton, MU LI, and Alexander J. Smola
 - [Neural Networks & Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20%26%20Deep%20Learning.pdf) by Michael Nielsen
 - [Neural Networks and Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20and%20Deep%20Learning.pdf) by Charu C. Aggarwal
 - [Neural Networks for Pattern Recognition](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Neural%20Networks%20for%20Pattern%20Recognition.pdf) by Christopher M. Bishop
@@ -60,10 +60,10 @@ For foundational learning, recommend the following books:
 - [Python Deep Learning](https://github.com/Daudsarfraz/DS5006-Deep-Learning/blob/main/recommended%20books/Python%20Deep%20Learning.pdf) by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca
 - [Feature Engineering for Machine Learning Principles and Techniques for Data Scientists]() by Alice Zheng & Amanda Casari
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems]() by Aurélien Géron
-- [Introduction to Machine Learning with Python A Guide for Data Scientists]() by
+- [Introduction to Machine Learning with Python A Guide for Data Scientists]() by Andreas C. Müller & Sarah Guido
 - [Machine Learning]() by Tom M. Mitchell
 - [Machine Learning With Python]() by Bernd Klein
-- [Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2]() by Sebastian Raschka and Vahid Mirjalili
+- [Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2]() by Sebastian Raschka & Vahid Mirjalili
 
 ## Reference Books
 
