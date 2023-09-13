@@ -1,6 +1,6 @@
 # DS5006 - Deep Learning Repository
 
-Welcome to the DS5006 - Deep Learning repository! This repository contains course materials, including slides, lecture notes, assignments, and projects.
+Welcome to the DS5006 - Deep Learning repository! This repository contains course materials, including slides, lecture notes, assignments, projects, recommended books, and datasets.
 
 ## Table of Contents
 
@@ -8,6 +8,8 @@ Welcome to the DS5006 - Deep Learning repository! This repository contains cours
 - [Lectures](#lectures)
 - [Assignments](#assignments)
 - [Projects](#projects)
+- [Recommended Books](#recommended-books)
+- [Datasets](#datasets)
 
 ## Slides
 
@@ -39,6 +41,22 @@ The projects section features information about course projects, project guideli
 
 - [Project Guidelines](/projects/guidelines/)
 - [Project Examples](/projects/examples/)
+- ...
+
+## Recommended Books
+
+For additional learning resources, we recommend the following books to enhance your understanding of deep learning:
+
+- [Deep Learning](https://example.com/deep-learning-book) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- [Neural Networks and Deep Learning](https://example.com/neural-networks-book) by Michael Nielsen
+- ...
+
+## Datasets
+
+Here, you can access datasets that are used in the course for hands-on exercises and projects. We provide links and instructions on how to download and use these datasets effectively.
+
+- [Dataset 1](/datasets/dataset1/)
+- [Dataset 2](/datasets/dataset2/)
 - ...
 
 Feel free to explore the repository, access the materials you need, and contribute if you have valuable resources to share with fellow students.
